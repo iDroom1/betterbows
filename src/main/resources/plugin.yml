@@ -1,0 +1,10 @@
+name: BetterBows
+version: '${project.version}'
+main: me.idroom1.betterbows.BetterBows
+api-version: '1.20'
+description: A plugin that allows players to shoot different projectiles from their bow.
+author: iDroom
+commands:
+  reloadconfig:
+    description: Reloads the plugin configuration.
+    usage: /reloadconfig
